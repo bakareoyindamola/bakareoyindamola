@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ![ThugDeveloper Github Stats](https://github-readme-stats.vercel.app/api?username=bakareoyindamola&show_icons=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bakareoyindamola)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bakareoyindamola)](https://github.com/anuraghazra/github-readme-stats)
