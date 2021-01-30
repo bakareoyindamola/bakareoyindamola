@@ -1,5 +1,13 @@
 ### Hi there, I'm Bakare Emmanuel 👋
 
+I work as a Frontend Developer, currently focused on web accessibility in order to make the web available for all types of users.
+
+Skills: Javascript, React, Angular. 
+
+<!--
+<a href="http://thugdeveloper.herokuapp.com/">See more</a>
+<!--
+
 
 - 🔭 I’m currently working on opensource, private projects.
 - 🌱 I’m currently learning Flutter
