@@ -1,6 +1,6 @@
 ### Hi there, I'm Bakare Emmanuel 👋
 
-I work as a Frontend Developer, currently focused on web accessibility in order to make the web available for all types of users.
+I work as a Frontend Developer, currently focused on web accessibility in order to make the web accessible for all types of users.
 
 Skills: Javascript, React, Angular. 
 
