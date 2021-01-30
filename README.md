@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on interesting ideas to make the world a better place.
 - ⚡ Fun fact: I don't like FIFA.
 - 💬 Ask me about Frontend Development and Chess
-- 🌍 How to reach me:  [ThugDeveloper](mailto:theonlybakare@gmail.com?subject=Mail from Github)
+- 🌍 How to reach me:  <a href="mailto:theonlybakare@gmail.com?subject=Mail from Github">ThugDeveloper</a>
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=theonlybakare&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
