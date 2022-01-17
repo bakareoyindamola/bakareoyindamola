@@ -2,7 +2,7 @@
 
 I work as a Frontend Developer, currently focused on web accessibility in order to make the web accessible for all types of users.
 
-Skills: Javascript, React, Angular. 
+Skills: Javascript, React. 
 
 <!--
 <a href="http://thugdeveloper.herokuapp.com/">See more</a>
